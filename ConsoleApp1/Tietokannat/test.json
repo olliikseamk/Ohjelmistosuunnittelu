@@ -1,0 +1,112 @@
+﻿[
+  {
+    "sivunPituus": 99.0,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Nelio",
+    "lavistajanPituus": 168.47889785775544,
+    "pintaAla": 198.0
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Kolmio",
+    "kanta": 99.0,
+    "korkeus": 58.0,
+    "pintaAla": 2871.0
+  },
+  {
+    "pii": 3.1415926535897931,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Ympyra",
+    "sade": 99.0,
+    "halkaisija": 198.0,
+    "piiri": 622.03534541077909,
+    "pintaAla": 30790.749597833561
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Suorakulmio",
+    "kanta": 99.0,
+    "korkeus": 58.0,
+    "pintaAla": 5742.0
+  },
+  {
+    "sivunPituus": 80.0,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Nelio",
+    "lavistajanPituus": 136.14456392545895,
+    "pintaAla": 160.0
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Kolmio",
+    "kanta": 80.0,
+    "korkeus": 45.0,
+    "pintaAla": 1800.0
+  },
+  {
+    "pii": 3.1415926535897931,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Ympyra",
+    "sade": 80.0,
+    "halkaisija": 160.0,
+    "piiri": 502.6548245743669,
+    "pintaAla": 20106.192982974677
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Suorakulmio",
+    "kanta": 80.0,
+    "korkeus": 45.0,
+    "pintaAla": 3600.0
+  },
+  {
+    "sivunPituus": 25.0,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Nelio",
+    "lavistajanPituus": 42.545176226705919,
+    "pintaAla": 50.0
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Kolmio",
+    "kanta": 25.0,
+    "korkeus": 56.0,
+    "pintaAla": 700.0
+  },
+  {
+    "pii": 3.1415926535897931,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Ympyra",
+    "sade": 25.0,
+    "halkaisija": 50.0,
+    "piiri": 157.07963267948966,
+    "pintaAla": 1963.4954084936207
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Suorakulmio",
+    "kanta": 25.0,
+    "korkeus": 56.0,
+    "pintaAla": 1400.0
+  },
+  {
+    "sivunPituus": 57.0,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Nelio",
+    "lavistajanPituus": 97.0030017968895,
+    "pintaAla": 114.0
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Kolmio",
+    "kanta": 57.0,
+    "korkeus": 32.0,
+    "pintaAla": 912.0
+  },
+  {
+    "pii": 3.1415926535897931,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Ympyra",
+    "sade": 57.0,
+    "halkaisija": 114.0,
+    "piiri": 358.14156250923639,
+    "pintaAla": 10207.034531513238
+  },
+  {
+    "tyyppi": "OlioOhjelmointiHarjoitus.Suorakulmio",
+    "kanta": 57.0,
+    "korkeus": 32.0,
+    "pintaAla": 1824.0
+  },
+  {
+    "sivunPituus": 4.0,
+    "tyyppi": "OlioOhjelmointiHarjoitus.Nelio",
+    "lavistajanPituus": 6.8072281962729475,
+    "pintaAla": 8.0
+  }
+]
